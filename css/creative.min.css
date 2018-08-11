@@ -75,6 +75,25 @@ img::-moz-selection{
 	background:0 0
 }
 
+#port{
+	margin-left: 20px;
+}
+
+.card-title{
+	text-align: center;
+}
+
+#click{
+	color: #5FD8CB
+}
+
+#enter{
+	margin-left: 9.5em
+}
+#link-heading{
+	margin-top: 60px;
+}
+
 #mainNav{
 border-bottom:1px solid rgba(33,37,41,.1);
 background-color:#fff;
