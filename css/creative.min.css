@@ -75,6 +75,18 @@ img::-moz-selection{
 	background:0 0
 }
 
+#view-more{
+	color: #f05f40;
+}
+
+#self-title{
+	color: #020202;
+}
+
+#self{
+	color: #020202;
+}
+
 #port{
 	margin-left: 20px;
 }
@@ -84,7 +96,15 @@ img::-moz-selection{
 }
 
 #click{
-	color: #5FD8CB
+	color: #28AEC2
+}
+
+#fan{
+	color: #F3AE2A;
+}
+
+#worm{
+	color:#D44343;
 }
 
 #enter{
