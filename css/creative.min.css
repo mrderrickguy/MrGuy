@@ -114,6 +114,22 @@ img::-moz-selection{
 	margin-top: 60px;
 }
 
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   height: 8%;
+   background-color: #f05f40;
+   color: white;
+
+   text-align: center;
+}
+#foot{
+	color:black;
+	margin-top: 15px;
+}
+
 #mainNav{
 border-bottom:1px solid rgba(33,37,41,.1);
 background-color:#fff;

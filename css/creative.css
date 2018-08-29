@@ -79,6 +79,15 @@ img::-moz-selection {
   color: #fff;
   background: transparent;
 }
+footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
 
 #mainNav {
   border-bottom: 1px solid rgba(33, 37, 41, 0.1);
